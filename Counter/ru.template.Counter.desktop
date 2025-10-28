@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.Counter
+Exec=/usr/bin/ru.template.Counter
+Name=Counter
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.template
+ApplicationName=Counter
+ExecDBus=/usr/bin/ru.template.Counter
